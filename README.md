@@ -29,15 +29,15 @@ Herramienta gráfica de ciberseguridad y análisis forense en **Python** para Wi
 ### 1. Clonar o descargar el repositorio
 Abre una terminal en tu PC y ejecuta:
 ```bash
-git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git)
-cd NOMBRE_DEL_REPO
+git clone https://github.com/ignaciobelliazziaguilar166-bot/Virus-Scan.git
+cd Virus-Scan.Python
 ```
 *(También puedes hacer clic en el botón verde **`<> Code`** arriba a la derecha y elegir **`Download ZIP`**).*
 
 ### 2. Ejecutar con permisos de Administrador
 Abre **Terminal (Administrador)** o **CMD (Administrador)** y lanza el programa:
 ```cmd
-python escaner_pro.py
+python Virus-Scan.oython
 ```
 
 ### 3. Analizar y gestionar archivos
